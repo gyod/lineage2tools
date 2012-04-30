@@ -1,0 +1,97 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="ShowDialog" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpoilStatus.Utils.InIFile">
+      <Item value="GetAsString" priority="0" />
+      <Item value="GetAsBool" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpoilStatus.OptionsForm.Instance">
+      <Item value="Lineage2FilePath" priority="2" />
+      <Item value="OnPropertiesChanged" priority="0" />
+      <Item value="PumpKey" priority="0" />
+      <Item value="ReelKey" priority="0" />
+      <Item value="FishingSkillReuseTime" priority="0" />
+      <Item value="UseFishingshots" priority="0" />
+      <Item value="FishshotKey" priority="0" />
+      <Item value="AutoReset" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:string">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MouseButtons">
+      <Item value="Left" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Security">
+      <Item value="Permissions" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/d:Properties/f:Resources.Designer.cs" caret="3105" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/d:Properties/f:Resources.resx" caret="0" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:OptionsForm.Designer.cs" caret="0" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:Form1.Designer.cs" caret="18100" scrollPosition="0|213" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:DropInfoForm.cs" caret="0" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/d:Utils/f:InIFile.cs" caret="745" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:Drop.cs" caret="0" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:DropData.cs" caret="551" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:ItemNames.cs" caret="625" scrollPosition="0|18" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:L2Pc.cs" caret="1425" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:L2Plegde.cs" caret="0" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:NpcNames.cs" caret="827" scrollPosition="0|9" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:SnifferControl.cs" caret="2019" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:OptionsForm.cs" caret="0" scrollPosition="0|0" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:Form1.cs" caret="20763" scrollPosition="0|197" />
+      <File id="ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/f:FishBot.cs" caret="917" scrollPosition="0|1" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <Providers />
+  </UnitTestRunner>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

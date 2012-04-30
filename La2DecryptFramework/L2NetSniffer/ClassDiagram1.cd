@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L2NetSniffer.L2NetSniffer">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAECAAAAAAQAAQADAAAAAAAICQAAIAgCAEABAAE=</HashCode>
+      <FileName>L2NetSniffer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="L2NetSniffer.TCPConnection">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAgAAAAAAgQBAAAAAAECABMAAAAgAAAAAAAA=</HashCode>
+      <FileName>TCPConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetSniffer.tcp_frag">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAASAAAAAAAAAAAAAAAAQAAIAAAA=</HashCode>
+      <FileName>TcpRecon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetSniffer.TcpRecon">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="L2NetSniffer.TcpRecon.SynRecivedEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TcpRecon.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="L2NetSniffer.TcpRecon.FinRecivedEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TcpRecon.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="L2NetSniffer.TcpRecon.RstRecivedEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TcpRecon.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAgAAAgAAAQAAAQgAUASEIAEABAgACAAIACBIGIAAA=</HashCode>
+      <FileName>TcpRecon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

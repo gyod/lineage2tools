@@ -1,0 +1,9 @@
+<Configuration>
+  <SettingsComponent>
+    <string>
+      <setting name="LastSelectedResourceFile">ED5ED95D-5AC6-4D9A-AC9A-B34DF7DD3261/d:Properties/f:Resources.resx</setting>
+    </string>
+    <integer />
+    <boolean />
+  </SettingsComponent>
+</Configuration>

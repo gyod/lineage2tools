@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L2NetCore.L2NetCore">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAOAAAAAAAAgAAAQEAAAwAAAEIAAAAAAAAAA=</HashCode>
+      <FileName>L2NetCore.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PacketHandler" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="L2NetCore.L2NetStream">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAIAEQAAoGAAAAABgAAAAAAAAAAAAAgEIIGA=</HashCode>
+      <FileName>L2NetStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCore.ReadablePacket">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAQgAAAAIAAAUAAAABAAAAAAAA=</HashCode>
+      <FileName>ReadablePacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCore.SendablePacket">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAgAAAAAAQABAAAIgAABAAAAAAAA=</HashCode>
+      <FileName>SendablePacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCore.Bytebuffer">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAQgAAAAIAAAUAAAAAAAAEAAAA=</HashCode>
+      <FileName>Bytebuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCore.PacketHandler">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAgAACAAAAAAAAAEQAAQEgCAAEAAAA=</HashCode>
+      <FileName>PacketHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCore.NullCryptor">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NullCryptor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="L2NetCore.IL2NetCrypt">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IL2NetCrypt.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="L2NetCore.IRunablePacket">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>IRunablePacket.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="L2NetCore.IL2StreamProvider">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAICQAAAAgAAAAAAAA=</HashCode>
+      <FileName>IL2StreamProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="L2NetCore.PacketType">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAABABAAAAAAAQAAA=</HashCode>
+      <FileName>PacketType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="L2NetCore.ConnectionState">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAIAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConnectionState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="L2NetCore.L2NetMode">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQ=</HashCode>
+      <FileName>L2NetMode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

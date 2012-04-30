@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="L2Proxy">
+</Property><Property Name="Solution File" Value="C:\Users\Chris\Documents\Visual Studio 2005\Projects\L2Proxy\L2Proxy.sln">
+</Property><Property Name="Date" Value="Samstag, 21. März 2009">
+</Property><Property Name="Time" Value="22:04">
+</Property></Properties><Event ErrorLevel="0" Project="L2Proxy" Source="L2Proxy\L2Proxy.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="L2Proxy" Source="L2Proxy\L2Proxy.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="L2PacketEditor" Source="L2PacketEditor\L2PacketEditor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="L2PacketEditor" Source="L2PacketEditor\L2PacketEditor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Hellbound2Kamael" Source="ConsoleApplication1\Hellbound2Kamael.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Hellbound2Kamael" Source="ConsoleApplication1\Hellbound2Kamael.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="L2Proxy.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="L2Proxy.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="L2Proxy" Source="L2Proxy\L2Proxy.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="L2PacketEditor" Source="L2PacketEditor\L2PacketEditor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Hellbound2Kamael" Source="ConsoleApplication1\Hellbound2Kamael.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

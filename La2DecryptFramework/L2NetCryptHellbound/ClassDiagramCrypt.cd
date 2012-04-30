@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L2NetCryptHellbound.BlowfishEngine" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAABAGAAEAAAAEAICAAACCgAhAAAHIAAACIQBAQJA=</HashCode>
+      <FileName>BlowfishEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCryptHellbound.Gamecrypt">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAAIAAAgBABAAAEAAAAAAAAAAAAAAAABAAQAA=</HashCode>
+      <FileName>Gamecrypt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCryptHellbound.Logincrypt">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAABAIAABAAEAAAAAQAABAAAAAAAAAAQAA=</HashCode>
+      <FileName>Logincrypt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCryptHellbound.NewCrypt">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAIAAQAAEAACAAAIABAAAAAAACAAAAA=</HashCode>
+      <FileName>NewCrypt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCryptHellbound.OpcodeObfuscator">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgBAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>OpcodeObfusicator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCryptHellbound.OpcodeTable">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAIAAAAAAgAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>OpcodeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2NetCryptHellbound.HellboundGameCryptor">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQBAAAAEAAAAACAQAAAAAAAAABAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>HellboundGameCryptor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="L2NetCryptHellbound.LoginCryptor">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAAAAAAQAAAQAAAAAAAAQAAAAAQAAAAAACAAAAI=</HashCode>
+      <FileName>LoginCryptor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

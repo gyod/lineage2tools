@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LineageServerList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ServerList>
+    <LaServer>
+      <ServerIp>127.0.0.23</ServerIp>
+      <ServerName>Katmai</ServerName>
+      <AppToStart>C:\Lineage2\system\L2.exe</AppToStart>
+      <L2auth>true</L2auth>
+      <L2testauth>false</L2testauth>
+      <GgServer>true</GgServer>
+    </LaServer>
+    <LaServer>
+      <ServerIp>78.46.44.76</ServerIp>
+      <ServerName>L2Retail</ServerName>
+      <AppToStart>C:\Lineage2\system\L2.exe</AppToStart>
+      <L2auth>true</L2auth>
+      <L2testauth>true</L2testauth>
+      <GgServer>true</GgServer>
+    </LaServer>
+    <LaServer>
+      <ServerIp>127.0.0.1</ServerIp>
+      <ServerName>dummy</ServerName>
+      <AppToStart>C:\Lineage2\system\L2.exe</AppToStart>
+      <L2auth>true</L2auth>
+      <L2testauth>true</L2testauth>
+      <GgServer>false</GgServer>
+    </LaServer>
+  </ServerList>
+  <DefaultServer>1</DefaultServer>
+</LineageServerList>

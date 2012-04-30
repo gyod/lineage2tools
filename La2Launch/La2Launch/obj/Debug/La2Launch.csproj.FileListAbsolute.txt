@@ -1,0 +1,18 @@
+J:\La2LaunchTools\La2Launch\obj\Debug\La2Launch.exe
+J:\La2LaunchTools\La2Launch\obj\Debug\La2Launch.pdb
+J:\La2LaunchTools\La2Launch\bin\Debug\La2Launch.exe
+J:\La2LaunchTools\La2Launch\bin\Debug\La2Launch.pdb
+J:\La2LaunchTools\La2Launch\obj\Debug\ResolveAssemblyReference.cache
+J:\La2LaunchTools\La2Launch\obj\Debug\La2Launch.Form1.resources
+J:\La2LaunchTools\La2Launch\obj\Debug\La2Launch.Properties.Resources.resources
+J:\La2LaunchTools\La2Launch\obj\Debug\La2Launch.csproj.GenerateResource.Cache
+J:\La2LaunchTools\La2Launch\obj\Debug\La2Launch.AboutBox1.resources
+C:\Dokumente und Einstellungen\chris\Eigene Dateien\Visual Studio 2008\Projects\La2LaunchTools\La2Launch\obj\Debug\La2Launch.exe
+C:\Dokumente und Einstellungen\chris\Eigene Dateien\Visual Studio 2008\Projects\La2LaunchTools\La2Launch\obj\Debug\La2Launch.pdb
+C:\Dokumente und Einstellungen\chris\Eigene Dateien\Visual Studio 2008\Projects\La2LaunchTools\La2Launch\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\chris\Eigene Dateien\Visual Studio 2008\Projects\La2LaunchTools\La2Launch\obj\Debug\La2Launch.AboutBox1.resources
+C:\Dokumente und Einstellungen\chris\Eigene Dateien\Visual Studio 2008\Projects\La2LaunchTools\La2Launch\obj\Debug\La2Launch.Form1.resources
+C:\Dokumente und Einstellungen\chris\Eigene Dateien\Visual Studio 2008\Projects\La2LaunchTools\La2Launch\obj\Debug\La2Launch.Properties.Resources.resources
+C:\Dokumente und Einstellungen\chris\Eigene Dateien\Visual Studio 2008\Projects\La2LaunchTools\La2Launch\obj\Debug\La2Launch.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\chris\Eigene Dateien\Visual Studio 2008\Projects\La2LaunchTools\La2Launch\bin\Debug\La2Launch.exe
+C:\Dokumente und Einstellungen\chris\Eigene Dateien\Visual Studio 2008\Projects\La2LaunchTools\La2Launch\bin\Debug\La2Launch.pdb
